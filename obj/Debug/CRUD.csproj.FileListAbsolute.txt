@@ -1,0 +1,10 @@
+E:\TUGAS\Work\CRUD\CRUD Fix\CRUD\CRUD\bin\Debug\CRUD.exe.config
+E:\TUGAS\Work\CRUD\CRUD Fix\CRUD\CRUD\bin\Debug\Akademik.mdb
+E:\TUGAS\Work\CRUD\CRUD Fix\CRUD\CRUD\bin\Debug\CRUD.exe
+E:\TUGAS\Work\CRUD\CRUD Fix\CRUD\CRUD\bin\Debug\CRUD.pdb
+E:\TUGAS\Work\CRUD\CRUD Fix\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+E:\TUGAS\Work\CRUD\CRUD Fix\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+E:\TUGAS\Work\CRUD\CRUD Fix\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+E:\TUGAS\Work\CRUD\CRUD Fix\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+E:\TUGAS\Work\CRUD\CRUD Fix\CRUD\CRUD\obj\Debug\CRUD.exe
+E:\TUGAS\Work\CRUD\CRUD Fix\CRUD\CRUD\obj\Debug\CRUD.pdb
